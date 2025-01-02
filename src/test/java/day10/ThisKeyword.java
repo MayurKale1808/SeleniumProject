@@ -39,5 +39,13 @@ public class ThisKeyword {
 		
 		
 	}
+	
+	public void vrifyText() {
+		System.out.println("print l");
+		System.out.println("print 2");
+		System.out.println("print 3");
+		System.out.println("print 5");
+		System.out.println("print 6");
+	}
 
 }
